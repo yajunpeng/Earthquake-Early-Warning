@@ -13,4 +13,4 @@ Figure 1. The mapview of seismic station (red triangles) and earthquake (blue do
 
 ![alt text](https://user-images.githubusercontent.com/28737912/29939745-e8f58542-8e5a-11e7-9936-d5c1d7cde7c7.png) 
 
-Figure 2. Prediciton error distribution for large earthquakes (> M4.5) using ridge regression, random forest and CNN compared to the baseline. 
+Figure 2. Prediciton error distribution for large earthquakes (> M4.5) using ridge regression, random forest and CNN compared to the baseline. The baseline model significantly underestimates these earthquake magnitudes. 
