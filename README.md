@@ -9,6 +9,6 @@ Seismic waveform data have been complied and cleaned for ~10,000 earthquakes ove
 
 Figure 1. The mapview of seismic station (red triangles) and earthquake (blue dots) distribution.
 
-![alt text](https://user-images.githubusercontent.com/28737912/30614536-ca1110f2-9d59-11e7-87e9-ea1057ea1bce.png) 
+![alt text](https://user-images.githubusercontent.com/28737912/30614845-df9a5fa4-9d5a-11e7-928c-e51c94dcdddb.png) 
 
 Figure 2. Prediciton error distribution for large earthquakes (> M4.5) using ridge regression, random forest and CNN compared to the baseline. The baseline model significantly underestimates the magnitudes of these earthquake. 
